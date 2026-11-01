@@ -1,0 +1,31 @@
+﻿ArtikelID;Artikelname;Artikelgruppe;Einkaufspreis;Verkaufspreis
+1;Mineralwasser Classic 12x0,7l;Wasser;4,2;6,49
+2;Mineralwasser Medium 12x0,7l;Wasser;4,2;6,49
+3;Mineralwasser Still 12x0,7l;Wasser;4,2;6,29
+4;Apfelschorle 12x0,7l;Wasser;5,1;7,99
+5;Cola 12x1,0l;Softdrinks;8,3;12,99
+6;Cola Zero 12x1,0l;Softdrinks;8,3;12,99
+7;Orangenlimonade 12x1,0l;Softdrinks;7,4;11,49
+8;Zitronenlimonade 12x1,0l;Softdrinks;7,4;11,49
+9;Eistee Pfirsich 6x1,5l;Softdrinks;5,2;8,29
+10;Energy Drink 24x0,25l;Softdrinks;18,9;27,99
+11;Helles Bier 20x0,5l;Bier;11,5;16,99
+12;Pils 20x0,5l;Bier;11,8;17,49
+13;Weissbier 20x0,5l;Bier;12,3;18,49
+14;Radler 20x0,5l;Bier;11,2;16,49
+15;Alkoholfreies Bier 20x0,5l;Bier;12,0;17,99
+16;Dunkles Bier 20x0,5l;Bier;12,3;18,29
+17;Weisswein trocken 0,75l;Wein;3,6;6,99
+18;Rotwein halbtrocken 0,75l;Wein;3,8;7,49
+19;Rose 0,75l;Wein;3,5;6,79
+20;Sekt 0,75l;Wein;3,9;7,99
+21;Glühwein 1,0l;Wein;2,4;4,99
+22;Vodka 0,7l;Spirituosen;8,5;13,99
+23;Gin 0,7l;Spirituosen;9,8;15,99
+24;Whisky 0,7l;Spirituosen;11,5;18,99
+25;Kräuterlikör 0,7l;Spirituosen;7,9;12,99
+26;Orangensaft 6x1,0l;Saefte;6,6;9,99
+27;Multivitaminsaft 6x1,0l;Saefte;6,4;9,79
+28;Apfelsaft naturtrüb 6x1,0l;Saefte;6,8;10,29
+29;Kaffee-Kaltgetränk 6x0,25l;Saefte;5,5;8,99
+30;Tonic Water 12x0,2l;Softdrinks;6,2;9,49
