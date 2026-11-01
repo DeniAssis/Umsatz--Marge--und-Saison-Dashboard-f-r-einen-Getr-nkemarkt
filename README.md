@@ -133,6 +133,12 @@ Datenstand =
 | **Umsatz** | Streudiagramm Umsatz gegen Marge je Artikelgruppe, Saisonindex nach Monat, Matrix mit Marge, Rohertrag und Umsatz je Jahr, Slicer für Jahr und Monat |
 | **Filiale** | Karte der Filialen (Größe = Umsatz, Farbe = Marge), Textzeile mit der aktuellen Auswahl |
 
+## Screenshots
+
+| Überblick | Umsatz und Saison | Filialen |
+|:---:|:---:|:---:|
+| ![Überblick](docs/screenshots/01-ueberblick.png) | ![Umsatz und Saison](docs/screenshots/02-umsatz-saison.png) | ![Filialen](docs/screenshots/03-filialen.png) |
+
 ## Beispielhafte Erkenntnisse
 
 Die folgenden Aussagen gelten nur für die fiktiven Daten:
