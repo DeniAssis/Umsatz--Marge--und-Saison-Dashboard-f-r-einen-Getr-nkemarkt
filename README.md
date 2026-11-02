@@ -2,7 +2,7 @@
 
 Power-BI-Projekt zur Analyse von Umsatz, Marge und Saisoneffekten einer regionalen Getränkemarkt-Kette mit fünf Filialen im Allgäu.
 
-> **Hinweis:** Alle Daten in diesem Repository sind **fiktiv** (das war ein Versehen, es sind fiktive Verkaufsdaten eines Getränkemarkts). Sie stammen aus keinem realen Unternehmen. Namen von Orten dienen nur der Darstellung auf der Karte.
+> **Hinweis:** Alle Daten in diesem Repository sind **fiktive Verkaufsdaten eines Getränkemarkts**. Sie stammen aus keinem realen Unternehmen. Namen von Orten dienen nur der Darstellung auf der Karte.
 
 ## Ziel
 
